@@ -7,12 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/akhigbe_ofure" target="blank"><img src="https://img.shields.io/twitter/follow/akhigbe_ofure?logo=twitter&style=for-the-badge" alt="akhigbe_ofure" /></a> </p>
 
+
 - 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **akhigbeofure@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/ofure-akhigbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ofure-akhigbe" height="30" width="40" /></a>
 <a href="https://twitter.com/akhigbe_ofure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhigbe_ofure" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ofureiakhigbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofureiakhigbe" height="30" width="40" /></a>
 <a href="https://instagram.com/akhigbe_ofure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhigbe_ofure" height="30" width="40" /></a>
