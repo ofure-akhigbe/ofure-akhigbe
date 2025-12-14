@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Ofure Akhigbe</h1>
-<h3 align="center">I am an aspiring data scientist</h3>
+<h3 align="center">I am an aspiring Biostatistician</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofure-akhigbe&label=Profile%20views&color=0e75b6&style=flat" alt="ofure-akhigbe" /> </p>
